@@ -1,0 +1,20 @@
+.login-block{
+    margin-top: 30px;
+    width: 100%;
+    
+}
+.name{
+    display: inline;
+    margin-right: 30px;
+    
+}
+.username-text{
+    height: 25px;
+}
+.submit-button
+{
+    margin-right: 50px;
+    height: 30px;
+    width: 80px;
+    font-size: medium;
+}

@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    
+}
+.footter{
+    border: 1px solid black;
+    text-align: center;
+    background-color: rgba(6, 6, 92, 0.884);
+    color:white;
+    
+    padding:10px 10px 0px 10px;
+    bottom:0;
+    width: 100%;
+    
+}

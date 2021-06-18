@@ -1,0 +1,19 @@
+.passw{
+    display: inline;
+    margin-right: 100px;
+    
+}
+.keytitle{
+    display: inline;
+    margin-right: 30px;
+}
+.name-text{
+    height: 25px;
+}
+.submit-button
+{
+    margin-right: 50px;
+    height: 30px;
+    width: 170px;
+    font-size: medium;
+}
